@@ -1,0 +1,16 @@
+﻿source,target,description,value,value_good
+35408,35420,Levensverwachting,243,148
+35406,35417,Kans op lymfklier-betrokkenheid is {result},327,319
+35406,35428,Kans op lymfklier-betrokkenheid is {result},913,547
+35416,35425,Levensverwachting,66,57
+35409,35418,cT,1618,1543
+35413,35421,Aantal positieve biopten,1069,986
+35416,35406,Levensverwachting,1240,866
+35414,35410,Kans op lymfklier-betrokkenheid is {result},7,0
+35407,35416,EAU/ESTRO Risicogroep,1306,923
+35407,35413,EAU/ESTRO Risicogroep,1735,1640
+35407,35408,EAU/ESTRO Risicogroep,1281,347
+35409,35407,cT,5040,2910
+35413,35429,Aantal positieve biopten,666,654
+35408,35414,Levensverwachting,1038,199
+35414,35415,Kans op lymfklier-betrokkenheid is {result},1031,199
