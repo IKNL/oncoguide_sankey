@@ -12,7 +12,7 @@ guidelines for patient therapy in the shape of decision trees.
 We wanted to generate a graphical representation of the flow of patients
 through the decision trees. Namely, we were interested in seeing the amount of
 patients that were treated according to the guidelines and the amount of
-patients that were not. We used `floWeaver <https://github.com/ricklupton/floweaver>`_
+patients that were not. We used [floWeaver](<https://github.com/ricklupton/floweaver>)
 to generate Sankey diagrams like the one shown below.
 
 ![Sankey diagram of an Oncoguide decision tree](./images/oncoguide_sankey.png)
@@ -26,6 +26,6 @@ that deviated from the guideline. This isn't necessarily bad (usually the
 clinician has good reasons to do so), but it gives us a good idea of how
 patients are treated.
 
-Lastly, you can [`access Oncoguide here](<https://oncoguide.nl/>). It is
+Lastly, you can [access Oncoguide here](<https://oncoguide.nl/>). It is
 free of charge and creating an account is optional. Look for the English
 version on the bottom of the main screen!
