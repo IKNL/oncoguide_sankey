@@ -1,7 +1,7 @@
-<img src="https://iknl.nl/images/default-source/images/.png?sfvrsn=3" align="right">
+<img src="https://github.com/IKNL/guidelines/blob/master/resources/logos/iknl_nl.png?raw=true" width=200 align="right">
 
 # Visualizing flow of patients in Oncoguide using Sankey diagrams
----
+
 At [IKNL](<https://iknl.nl/>), we work everyday to continuously improve
 oncological and palliative care of the Dutch population. We have developed
 [Oncoguide](<https://www.iknl.nl/oncologische-zorg/oncoguide/>), a tool that
